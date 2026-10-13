@@ -1,16 +1,22 @@
-# FFMAX Boost — Spark 30 Pro
+# FFMAX Boost V2 — Spark 30 Pro
 
-Target: TECNO Spark 30 Pro / Helio G100 / 8 GB RAM.
+Dibuat untuk membantu sesi bermain lebih nyaman pada TECNO Spark 30 Pro / Helio G100 / RAM 8 GB.
 
-Fokus utama: stabilitas dan pengurangan panas, bukan memaksa performa di atas batas perangkat.
+Mode:
+- COOL: prioritas suhu
+- STABLE: rekomendasi harian
+- PERFORMANCE: sesi pendek jika suhu aman
 
-## Build lewat GitHub
-1. Buat repository baru.
-2. Upload semua file/folder project ini.
-3. Buka **Actions**.
-4. Pilih **Build FFMAX Boost APK**.
-5. Klik **Run workflow**.
-6. Setelah selesai, buka hasil run dan download artifact `FFMAX-Boost-debug`.
+Fitur:
+- monitor suhu baterai setiap 3 detik
+- indikator suhu
+- peringatan suhu tinggi
+- launcher Free Fire MAX
+- GitHub Actions untuk build APK
 
-## Catatan panas
-Aplikasi tidak mengubah thermal limit Android. Jika perangkat panas, turunkan FPS/grafik, istirahatkan perangkat, dan jangan bermain sambil charging.
+Tidak ada modifikasi APK/data game, cheat, recoil/aim manipulation, atau bypass anti-cheat.
+
+Build:
+1. Upload project ke repository GitHub.
+2. Actions → Build FFMAX Boost V2 → Run workflow.
+3. Download artifact FFMAX-Boost-V2.
