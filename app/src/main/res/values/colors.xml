@@ -1,7 +1,5 @@
 <resources>
-    <color name="bg">#080A10</color>
-    <color name="card">#111722</color>
-    <color name="text">#F4F7FB</color>
-    <color name="muted">#9CA8BB</color>
-    <color name="accent">#8B7CFF</color>
+<color name="bg">#070910</color><color name="panel">#101621</color>
+<color name="text">#F5F7FB</color><color name="muted">#9BA8BC</color>
+<color name="accent">#8B7CFF</color>
 </resources>
